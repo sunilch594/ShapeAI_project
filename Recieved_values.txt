@@ -1,0 +1,8 @@
+Weather of Bokaro
+___________________________________________________
+Temperature : 30.82000000000005 deg C
+Weather Description : overcast clouds
+Humidity : 66%
+Wind Speed : 4.41kmph
+Date and Time : 23 Jun 2021 | 05:08:13 PM
+___________________________________________________
